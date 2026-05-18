@@ -1,6 +1,6 @@
 # Anand Shankar
 
-Bioinformatics Analyst at the National Cancer Institute, where I build production genomics pipelines and apply AI/ML to large-scale cancer research datasets. Most of that work lives in private repos — the public side shows what I build outside of it.
+Bioinformatics Analyst at the National Cancer Institute, where I build production pipelines to analyze and interpret large-scale cancer genomics datasets.
 
 - 5+ years designing NGS pipelines (Snakemake, Nextflow, GATK, DRAGEN) in production on AWS & Azure
 - Building agentic AI apps with Claude and Next.js
