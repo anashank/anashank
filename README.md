@@ -2,9 +2,9 @@
 
 Bioinformatics Analyst at the National Cancer Institute, where I build production pipelines to analyze and interpret large-scale cancer genomics datasets.
 
-- 5+ years designing NGS pipelines (Snakemake, Nextflow, GATK, DRAGEN) in production on AWS & Azure
+- 5+ years designing NGS pipelines (Snakemake, Nextflow, GATK, DRAGEN) in production on HPC and cloud platforms (AWS & Azure).
 - Building agentic AI apps with Claude and Next.js
-- Comfortable across the stack: TypeScript frontends, Python backends, cloud infra
+- Comfortable across the stack: TypeScript/React.js frontends, Python backends, cloud infra
 
 ---
 
