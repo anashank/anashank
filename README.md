@@ -10,7 +10,7 @@ Bioinformatics Analyst at the National Cancer Institute, building production gen
 
 ### Featured
 
-**[FlySmart](https://github.com/anashank/flysmart)** — AI-powered award flight search. Claude searches real availability across 15+ airline programs, scores every redemption in cents-per-point, and returns a plain-English booking strategy. [[Live demo]](https://flysmart-three.vercel.app)
+**[FlySmart](https://github.com/anashank/flysmart)** — AI-powered award flight search. Claude searches real availability across 15+ airline programs, scores every redemption in cents-per-point, and returns a plain-English booking strategy. [[Live demo]](https://flysmart-three.vercel.app/demo)
 
 ---
 
